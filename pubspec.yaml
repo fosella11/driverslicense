@@ -17,6 +17,8 @@ dependencies:
   auto_size_text: ^2.0.0+2
   shared_preferences: ^0.4.2
   flutter_launcher_icons: ^0.7.4
+  provider: 4.3.2+2
+
 
   flutter_localizations:
     sdk: flutter

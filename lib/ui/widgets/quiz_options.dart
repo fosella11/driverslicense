@@ -4,7 +4,7 @@ import 'package:driverslicenses/models/category.dart';
 import 'package:driverslicenses/models/question.dart';
 import 'package:driverslicenses/resources/api_provider.dart';
 import 'package:driverslicenses/ui/pages/error.dart';
-import 'package:driverslicenses/ui/pages/quiz_page.dart';
+import 'package:driverslicenses/ui/pages/quiz/quiz_page.dart';
 
 import '../../app_localizations.dart';
 
