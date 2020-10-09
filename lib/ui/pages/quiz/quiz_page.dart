@@ -69,9 +69,7 @@ class _QuizPageState extends State<QuizPage> {
                                       groupValue: quizVM.getCurrentAnswers(),
                                       value: option,
                                       onChanged: (value) {
-                                        setState(() {
-                                          quizVM.addAnswer(option);
-                                        });
+                                        quizVM.addAnswer(option);
                                       },
                                     )),
                               ],
